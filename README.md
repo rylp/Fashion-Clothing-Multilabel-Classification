@@ -14,7 +14,7 @@ Kaggle: https://www.kaggle.com/trolukovich/apparel-images-dataset
 ## Results
 
 Training Accuracy => Clothing : **99.02%** Color: **97.51%**</br>
-Validation Accuracy : Clothing: **93.81%** Color: **96.6%**
+Validation Accuracy => Clothing: **93.81%** Color: **96.6%**
 
 ## Outputs
 
