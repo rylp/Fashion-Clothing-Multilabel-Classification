@@ -18,4 +18,4 @@ Validation Accuracy => Clothing: **93.81%** Color: **96.6%**
 
 ## Outputs
 
-![](output_montage/output_montage1.png)
+![](output_montage/output_mont.png)
